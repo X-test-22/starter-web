@@ -9,6 +9,7 @@ This is example is to show different parts of GIt repository and various command
 ## Prupose
 
 As stated above, the main prupose is to provide simple examples for Git training demos.
+Please fork this repository
 
 ## Deployment
 
