@@ -20,3 +20,4 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ###Copyright
 Some copyright lines for this secction
+Phrase All rights reserved.
